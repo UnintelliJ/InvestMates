@@ -1,1 +1,2 @@
 # InvestMates
+We are InvestMates! 
